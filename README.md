@@ -6,3 +6,4 @@
 
 - Day 1: Trebuchet?! - [Rust](./Rust/day-01/)
 - Day 2: Cube Conundrum - [Rust](./Rust/day-02/)
+- Day 3: Gear Ratios - [Rust](./Rust/day-03/)
