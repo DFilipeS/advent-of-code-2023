@@ -1,0 +1,12 @@
+create day:
+    cargo generate --path ./template/ --name day-0{{day}} --define day={{day}}
+test name:
+    cargo nextest run -p {{name}}
+watch-test name:
+    cargo watch -x 'nextest run -p {{name}}'
+work name:
+    cargo watch -w {{name}} -x "check -p {{name}}" -s "just lint {{name}}" -s "just test {{name}}" 
+lint name:
+    cargo clippy -p {{name}}
+run name part:
+    cargo run -p {{name}} --bin solver -- --part {{part}}
