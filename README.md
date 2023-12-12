@@ -7,3 +7,5 @@
 - Day 1: Trebuchet?! - [Rust](./Rust/day-01/)
 - Day 2: Cube Conundrum - [Rust](./Rust/day-02/)
 - Day 3: Gear Ratios - [Rust](./Rust/day-03/)
+- Day 4: Scratchcards - [Rust](./Rust/day-04/)
+- Day 5: If You Give A Seed A Fertilizer - [Rust](./Rust/day-05/)

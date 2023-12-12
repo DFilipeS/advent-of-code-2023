@@ -152,6 +152,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "day-05"
+version = "0.1.0"
+dependencies = [
+ "clap",
+ "itertools",
+ "nom",
+ "rstest",
+]
+
+[[package]]
 name = "either"
 version = "1.9.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
