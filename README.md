@@ -9,3 +9,4 @@
 - Day 3: Gear Ratios - [Rust](./Rust/day-03/)
 - Day 4: Scratchcards - [Rust](./Rust/day-04/)
 - Day 5: If You Give A Seed A Fertilizer - [Rust](./Rust/day-05/)
+- Day 6: Wait For It - [Rust](./Rust/day-06/)
